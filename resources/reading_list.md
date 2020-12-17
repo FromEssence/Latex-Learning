@@ -14,3 +14,9 @@ http://dralpha.altervista.org/zh/tech/lnotes2.pdf
 ### 视频类
 1. A tutorial
 https://www.youtube.com/watch?v=VhmkLrOjLsw
+
+
+### 技巧类
+1. MathType转Latex </br>
+1)https://www.mathtype.cn/jiqiao/zhuanhuan-daima.html </br>
+2)快捷键alt+\ 注意文档中公式会被直接转成latex
