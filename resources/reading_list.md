@@ -20,3 +20,8 @@ https://www.youtube.com/watch?v=VhmkLrOjLsw
 1. MathType转Latex </br>
 1)https://www.mathtype.cn/jiqiao/zhuanhuan-daima.html </br>
 2)快捷键alt+\ 注意文档中公式会被直接转成latex
+
+### 零散
+1. 算法排版
+</br> https://www.cnblogs.com/coolqiyu/p/5580290.html
+</br> https://www.overleaf.com/learn/latex/algorithms
