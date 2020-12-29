@@ -25,3 +25,5 @@ https://www.youtube.com/watch?v=VhmkLrOjLsw
 1. 算法排版
 </br> https://www.cnblogs.com/coolqiyu/p/5580290.html
 </br> https://www.overleaf.com/learn/latex/algorithms
+2. 在线tex表格
+</br> https://www.tablesgenerator.com/latex_tables
