@@ -27,3 +27,4 @@ https://www.youtube.com/watch?v=VhmkLrOjLsw
 </br> https://www.overleaf.com/learn/latex/algorithms
 2. 在线tex表格
 </br> https://www.tablesgenerator.com/latex_tables
+3. [Notation table; 不错的论坛](https://latex.org/forum/viewtopic.php?t=32190)
